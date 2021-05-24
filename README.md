@@ -1,6 +1,6 @@
 # Shopify-Technical-Issues-Resolving-Repository-new
 This is the repository for resolving the Technical SEO issues in the Shopify website, this Code is under modification and will always be ! Your Suggestions and commitments are always welcomed.
-This is the repository for resolving the Technical SEO issues in the Shopify website, this Code is under modification and will always be ! Your Suggestions and commitments are always welcomed.
+T
 <h2> Please browse the codes of this repository it can help in resolving the Following Technical issues of Shopify Websites</h2>
 <h3>Following issues can be resolved using this repository</h3>
   <ol>
