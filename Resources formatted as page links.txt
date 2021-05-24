@@ -1,0 +1,11 @@
+﻿<!-- Resolving the resources formatted as page links -->
+<!-- Inspect element check class
+Following are the common liquid files which might have Resolving the resources formatted as page links generally, however this thing is theme dependent
+1) Product-template.liquid
+2) Product gallery
+3) Product grid -->
+<!-- Search for the quoted text in the above liquid files as “<a href” if found replace the code as instructed below -->
+<a href="{{ image.src | img_url: '1024x1024', scale: 2 }}" class="product-photo-thumb product-photo-thumb-{{ section.id }}" data-image-id="{{ image.id }}">
+                  <img src="{{ image.src | img_url: 'compact' }}" alt="{{ image.alt | escape }}">
+                </a>
+<!-- Replace a with div class, close div or you can use  <a data-href> instead of div in special cases -->
