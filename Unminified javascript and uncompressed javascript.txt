@@ -1,0 +1,80 @@
+﻿<!-- Resolving issues related to the unminified javascript and uncompressed javascript. -->
+
+
+<!-- Search for the Resource URL in semrush as given in the sheet Replace the url script with the minified code with following Link: https://code.jquery.com/ make sure to check the version of scripts in the resource URL -->
+
+
+<!-- jQuery 3.x Uncompressed replacement code -->
+<!-- jQuery Core -->
+
+
+<script
+  src="https://code.jquery.com/jquery-3.6.0.js"
+  integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+  crossorigin="anonymous"></script>
+
+
+<!-- jQuery 3.x Minified replacement code -->
+
+
+<script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+
+
+<!-- jQuery 3.x Slim replacement code -->
+
+
+<script
+  src="https://code.jquery.com/jquery-3.6.0.slim.js"
+  integrity="sha256-HwWONEZrpuoh951cQD1ov2HUK5zA5DwJ1DNUXaM6FsY="
+  crossorigin="anonymous"></script>
+
+
+<!-- jQuery 3.x Slim minified replacement code -->
+
+
+<script
+  src="https://code.jquery.com/jquery-3.6.0.slim.min.js"
+  integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI="
+  crossorigin="anonymous"></script>
+
+
+<!-- jQuery 2.x Uncompressed replacement code -->
+
+
+<script
+  src="https://code.jquery.com/jquery-2.2.4.js"
+  integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI="
+  crossorigin="anonymous"></script>
+
+
+<!-- jQuery 2.x Minified replacement code -->
+
+
+<script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script>
+
+
+<!-- jQuery 1.x Uncompressed replacement code -->
+
+
+<script
+  src="https://code.jquery.com/jquery-1.12.4.js"
+  integrity="sha256-Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU="
+  crossorigin="anonymous"></script>
+
+
+<!-- jQuery 1.x Minified replacement code -->
+
+
+<script
+  src="https://code.jquery.com/jquery-1.12.4.min.js"
+  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+  crossorigin="anonymous"></script>
+
+
+<!-- Just like me, hunger for codes ? visit https://code.jquery.com/ -->

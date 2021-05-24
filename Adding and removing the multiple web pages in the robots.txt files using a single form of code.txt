@@ -1,0 +1,25 @@
+﻿<!-- Adding and removing the multiple web pages in the robots.txt files using a single form of code. -->
+<!-- Put this code in the head of the theme.liquid file. -->
+
+ {% if
+      template contains 'search' or
+      template contains 'account' or
+      template contains 'customer' or
+      template contains 'cart' or
+      page.handle contains 'size-guide-' or
+      page.handle contains 'inspiration-'
+    %}
+      <meta name="robots" content="noindex, nofollow">
+    {% endif %}
+
+<!-- Put the page handle name instead of  'examples' in the above code. -->
+<!-- For multiple robots.txt. Here is the if else coding -->
+
+{% if handle contains 'all?page=830' %}
+<meta name="robots" content="noindex">
+{% elsif handle contains 'your-page-handle-2' %}
+<meta name="robots" content="noindex">
+ {% elsif handle contains 'your-page-handle-3' %} <meta name="robots" content="noindex">
+ {% else %} {% endif %}
+
+<!-- That’s it you are done, it's so simple -->

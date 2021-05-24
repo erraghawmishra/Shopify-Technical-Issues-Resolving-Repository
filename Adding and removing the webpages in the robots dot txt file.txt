@@ -1,0 +1,7 @@
+﻿<!-- Adding and removing the webpages in the robots.txt file. -->
+<!-- Put this code in the head of the theme.liquid file. -->
+{% if handle contains 'collections/all?page=830' %}
+<meta name="robots" content="noindex">
+{% endif %}
+<!-- Put the page handle name instead of  'collections/all?page=830' in the above code. -->
+<!-- That’s it you are done, it's so simple -->

@@ -1,0 +1,6 @@
+﻿<!-- Pages have no hreflang and lang attributes. -->
+<!-- Paste the following code just as a part of the starting of html tag. →
+
+<html lang="{{shop.locale}}" class="no-js">
+ 
+<!-- That’s it you are done, it's so simple -->
